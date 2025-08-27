@@ -1,0 +1,4 @@
+name: DistanceExpansion
+version: '1.0'
+main: cn.clexus.distancePlaceholderAPIExpansion.DistanceExpansion
+api-version: '1.21'
